@@ -1,0 +1,56 @@
+# Site settings
+course_name: MA506 Probability and Statistical Inference
+course_description: "This course will focus on using ideas from Probability and Statistics to solve problems in data science. The main topics included in the course are
+1. Fundamentals of Statistical Learning 2. Linear Regression
+3. Classification
+4. Statistical Model Selection
+5. Advanced topics in Regression/Classification"
+course_semester: "Fall 2022"
+
+baseurl: "/MA506" # the subpath of your site, e.g. /blog/
+url: "https://p-shekhar.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Embry-Riddle Aeronautical University"
+schoolurl: "https://erau.edu/"
+# twitter_username: username 
+
+address: |
+    1 Aerospace Blvd
+    Daytona Beach, FL,
+    32114
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
