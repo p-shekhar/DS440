@@ -7,7 +7,7 @@ course_description: "This course will focus on using ideas from Probability and 
 5. Advanced topics in Regression/Classification"
 course_semester: "Fall 2022"
 
-baseurl: "/MA506" # the subpath of your site, e.g. /blog/
+baseurl: "/MA440" # the subpath of your site, e.g. /blog/
 url: "https://p-shekhar.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Embry-Riddle Aeronautical University"
