@@ -44,13 +44,13 @@ The grading is expected to follow the standard scale
 However, based on the performance of the entire class, I might curve the grading scale later.
 
 <h3><strong>Test</strong></h3>
-You will have one main test (tentative date: 16$^{th}$ Nov). Make-ups on the test may be allowed only for valid extenuating circumstances when I am informed before the test takes place – please see me about conflicts as soon as they occur.
+You will have one main test (tentative date: 16<sup>th</sup> Nov). Make-ups on the test may be allowed only for valid extenuating circumstances when I am informed before the test takes place – please see me about conflicts as soon as they occur.
 
 <h3><strong>Project and Presentation</strong></h3>
 During the semester, you will be supervised to work on a project which combines classroom materials and real-world applications. The project together with the presentation is the final deliverable for the course. It is supposed to be a group project with teams consisting of 2-4 students. I will work with each of the team separately to identify a topic of your interest and find a relevant project in that domain. In case you are already working on a research problem related to the topics discussed in class, that can also be considered. I will announce project guidelines and rubric in due course.
 
 <h3><strong>Homeworks</strong></h3>
-Your homework grade will be determined based on 4 programming oriented homeworks . You are required to use $\textcolor{red}{Python}$ (Jupyter notebooks) to solve homework problems. These homework problems will test the ability of the students to apply the concepts learnt in class to real-life problems.
+Your homework grade will be determined based on 4 programming oriented homeworks . You are required to use <strong>Python</strong> (particularly Jupyter notebooks) to solve homework problems. These homework problems will test the ability of the students to apply the concepts learnt in class to real-life problems.
 
 <h3><strong>Academic Integrity</strong></h3>
 Embry-Riddle Aeronautical University maintains high standards of academic honesty and integrity in higher education. To preserve academic excellence and integrity, the University prohibits academic dishonesty in any form, including, but not limited to, cheating and plagiarism. More specific definitions of these violations and their consequences are described in detail in the Dean of Students’ <a href = 'https://daytonabeach.erau.edu/campus-life/dean-of-students/honor/codes#academic-integrity' target="_blank">Honor Codes and Student Policies</a>.
