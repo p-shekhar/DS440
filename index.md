@@ -56,7 +56,7 @@ Your homework grade will be determined based on 4 programming oriented homeworks
 Embry-Riddle Aeronautical University maintains high standards of academic honesty and integrity in higher education. To preserve academic excellence and integrity, the University prohibits academic dishonesty in any form, including, but not limited to, cheating and plagiarism. More specific definitions of these violations and their consequences are described in detail in the Dean of Students’ <a href = 'https://daytonabeach.erau.edu/campus-life/dean-of-students/honor/codes#academic-integrity' target="_blank">Honor Codes and Student Policies</a>.
 
 <h3><strong>Disability Services</strong></h3>
-DSS Administration Office: Bldg 500; Contact: (386) 226-7916; email: dbdss@erau.edu
+DSS Administration Office: Bldg 500; Contact: (386) 226-7916; email: <a href = "mailto:dbdss@erau.edu?subject = Feedback&body = Message">dbdss@erau.edu</a>
 <ol>
 <li>Student Disability Services: Students with disabilities who believe that they may need accommodations in this class are encouraged to contact the Office of Disability Services. Professors cannot make appropriate disability accommodations. Students are encouraged to register with DSS at the beginning of the term to better ensure that such accommodations are implemented in a timely fashion. Accommodations are not granted until official notice is received from DSS.</li>
 <li>It is the responsibility of the student to notify DSS the date and time of test once s/he has been made aware of the scheduled test. DSS requires: (a) 2 business days minimum notification for tests and quizzes and (b) 5 business days minimum notification for final exams. Professors cannot make appropriate testing modification without notification from DSS.</li>
