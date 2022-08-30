@@ -1,4 +1,3 @@
-<!--
 ---
 type: lecture
 date: 2022-08-31T8:00:00
@@ -13,4 +12,4 @@ links:
 **Suggested Readings:**
 - [Readings 1](https://www.w3schools.com/python/)
 - [Readings 2](https://www.pythontutorial.net/python-basics/)
--->
+
