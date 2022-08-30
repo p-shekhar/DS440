@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-09-02T8:00:00
-title: Lecture 2 Scientific computation in python: Numpy
+title: Lecture 2 Numpy
 tldr: "We will discuss basics of numpy library and how it can help with data mining models"
 thumbnail: /static_files/presentations/lec.png
 links: 
