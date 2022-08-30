@@ -3,10 +3,10 @@ type: lecture
 date: 2022-08-31T8:00:00
 title: Lecture 2 Python Introduction
 tldr: "We will go over basic commands in python"
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/lec.png
 links: 
     - url: /static_files/presentations/Lecture2.zip
-      name: notes
+      name: Notebook
 ---
 
 **Suggested Readings:**
