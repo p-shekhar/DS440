@@ -11,4 +11,3 @@ links:
 
 **Suggested Readings:**
 - [Readings 1](https://www.w3schools.com/PYTHON/numpy/default.asp)
-
