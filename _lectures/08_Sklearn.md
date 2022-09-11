@@ -8,3 +8,6 @@ links:
     - url: /static_files/presentations/Lecture8.zip
       name: Notebook
 ---
+**Suggested Readings:**
+- [Readings 1](https://scikit-learn.org/stable/user_guide.html)
+- [Readings 2](https://scikit-learn.org/stable/tutorial/index.html)
