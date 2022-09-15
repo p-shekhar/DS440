@@ -8,7 +8,7 @@ pdf: /static_files/assignments/DS440_Homework1.pdf
 solutions: /static_files/assignments/asg_solutions.pdf-->
 due_event: 
     type: due
-    date: 2022-09-28T8:00:00
+    date: 2022-09-28T23:59:00
     description: 'Homework 1 due'
 ---
 This is the first assignment. Here you will explore basics of python.
