@@ -3,4 +3,4 @@ layout: page
 title: Project
 permalink: /project/
 ---
-Look out for the details for course project here.
+Course project details: <a href = "DS440_Project.pdf" target="_blank"> here </a>
