@@ -8,7 +8,5 @@ links:
     - url: /static_files/presentations/Lecture18.zip
       name: Notebook
 ---
-<!--
 **Suggested Readings:**
-- [Recording](https://erau.zoom.us/rec/share/laqUMgG2AVX1IzNM6Y8Ltd1UYFpYx9mR2fnX0LueCgioIYXZtgZ9ANh9xMqVt01E.aufq2AZrmoO6P4DK)
--->
+- [Recording](https://erau.zoom.us/rec/share/llQcyjVhXYIjcK-gJdlg26wNHwhMQcQYDf6sKsLorPXYNWd1jDdUnsUwVsStWkdR.8Xti_IUwDzlXwYpW?startTime=1665410522000)

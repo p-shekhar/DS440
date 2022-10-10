@@ -5,7 +5,7 @@ date: 2022-09-12
 title: 'Homework 1'
 pdf: /static_files/assignments/DS440_Homework1.pdf
 <!--attachment: /static_files/assignments/asg.zip -->
-<!--solutions: /static_files/assignments/asg_solutions.pdf -->
+solutions: /static_files/assignments/Solution_DS440_HW1.ipynb
 due_event: 
     type: due
     date: 2022-10-01T23:59:00
