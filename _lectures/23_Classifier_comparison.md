@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-10-24T8:00:00
+date: 2022-10-26T8:00:00
 title: Lecture 23 Classifier Comparison
 tldr: "We will compare the classification models discussed before"
 thumbnail: /static_files/presentations/lec.png
